@@ -162,6 +162,5 @@ The final results demonstrate the adjustment of the itinerant data after the cor
 
 This process can be used in subsequent analyses of magnetic data, allowing for more precise and reliable correction. The generated graphs help identify any discrepancies between the raw and corrected data, providing a clear view of the applied corrections.
 
-![Link para a página web](github.png)
 
-<img src="github.png" alt="GitHub Logo" width="300">
+<img src="github.png" alt="Qrcode para está página web" width="300">
